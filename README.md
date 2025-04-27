@@ -10,7 +10,7 @@ You need an image editing software which can apply LUT files.Some of the most we
 - Affinity Photo
 
 
-### How to remove cast ###
+## How to remove cast ##
 
 I am going to demonstrate the use using Affinity Photo.
 Go to Layer -> Adjastment layer ->create a new LUT layer
